@@ -1,3 +1,5 @@
+![Certification](certifitacion/Certificado_WL_DataAnalytics)
+
 # ATP Tennis Data Analytics
 
 Business Intelligence and Data Analytics project focused on ATP professional tennis tournaments between 2000–2024.
