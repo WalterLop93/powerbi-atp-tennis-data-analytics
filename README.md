@@ -1,4 +1,4 @@
-![Certification](certifitacion/Certificado_WL_DataAnalytics)
+![Certification](certifitacion/Certificado_WL_DataAnalytics.png)
 
 # ATP Tennis Data Analytics
 
